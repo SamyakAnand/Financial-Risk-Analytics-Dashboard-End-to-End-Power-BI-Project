@@ -277,6 +277,12 @@ Financial-Risk-Analytics-Dashboard/
 └── README.md
 ```
 
+### 🖼️ **Dashboard Preview Images**
+
+* **Page 1 - Loan Default & Overview**: ![Page 1](https://github.com/SamyakAnand/Financial-Risk-Analytics-Dashboard-End-to-End-Power-BI-Project/blob/main/Loan%20default%20and%20overview%20page%201%20(1).png)
+* **Page 2 - Applicant Demographics & Financial Profile**: ![Page 2](https://github.com/SamyakAnand/Financial-Risk-Analytics-Dashboard-End-to-End-Power-BI-Project/blob/main/applicant%20demographics%20and%20financial%20profile%20page%202.png)
+* **Page 3 - Financial Risk Metrics**: ![Page 3](https://github.com/SamyakAnand/Financial-Risk-Analytics-Dashboard-End-to-End-Power-BI-Project/blob/main/financial%20risk%20metrics%20page%203.png)
+
 ---
 
 # 🚀 **How to Use the Dashboard**
